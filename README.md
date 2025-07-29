@@ -1,4 +1,4 @@
-# Solana Token Sniper Bot
+# Solana Token Sniper Bot ( AI CREATED )
 
 A production-ready Solana token sniper bot with advanced anti-scam protection and real-time monitoring capabilities.
 
